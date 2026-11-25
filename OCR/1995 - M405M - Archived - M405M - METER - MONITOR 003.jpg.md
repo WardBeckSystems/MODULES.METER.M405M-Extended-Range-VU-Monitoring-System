@@ -1,5 +1,5 @@
 # 1995 - M405M - Archived - M405M - METER - MONITOR 003.jpg
-Wiki page: [M405M](../../../PAGES/M405M.md)
+Wiki page: [M405M](../../../../PAGES/M405M.md)
 
 
 - **Year:** 1995 (module estimate (manual_issue))
@@ -23,7 +23,7 @@ LLLijiZ Z/ WBS
 
 ```json
 {
- "file": "Modules/METER/M405M/1995 - M405M - Archived - M405M - METER - MONITOR 003.jpg",
+ "file": "Modules/METER/M405M/PHOTOS/1995 - M405M - Archived - M405M - METER - MONITOR 003.jpg",
  "sha256": "4472ceb3f1220d7039471efd709df792ac560a48ee0c1b896f7f6d7df2168a21",
  "kind": "module",
  "models": [

@@ -1,5 +1,5 @@
 # 1995 - M405M - Archived - M405M - METER - MONITOR 001.jpg
-Wiki page: [M405M](../../../PAGES/M405M.md)
+Wiki page: [M405M](../../../../PAGES/M405M.md)
 
 
 - **Year:** 1995 (module estimate (manual_issue))
@@ -35,7 +35,7 @@ WARD-BECK SYSTEMS
 
 ```json
 {
- "file": "Modules/METER/M405M/1995 - M405M - Archived - M405M - METER - MONITOR 001.jpg",
+ "file": "Modules/METER/M405M/PHOTOS/1995 - M405M - Archived - M405M - METER - MONITOR 001.jpg",
  "sha256": "4e87230147f684dec4c38de6f85d901b48ed0cbe75a2a0c2461f13c3f7758253",
  "kind": "module",
  "models": [
