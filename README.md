@@ -13,6 +13,29 @@ Ward-Beck Systems M405M, 1995|28. Wiki page: [M405M on WBSps.ca](https://wardbec
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 2 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 4 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+## Specifications
+
+From the technical data sheet: [1995 - M405M - 14-292-02-003 - 3 P1 CONNECTOR 3-1 - LAYOUT.wp](MANUALS/1995%20-%20M405M%20-%2014-292-02-003%20-%203%20P1%20CONNECTOR%203-1%20-%20LAYOUT.wp) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Range** | -10 dBu to +10 dBu in five steps. |
+| **Input selection** | Pushbutton select between two sources. |
+| **Source impedance** | 600 ohms or less, balanced. |
+| **Input impedance** | Greater than 20K ohms. |
+| **Attenuator Tracking** | ±0.25dB per step, non-cumulative. |
+| **Meter ballistics** | Complies with ANSI C16.5. |
+| **Frequency response** | ±0.25 dB 30 Hz to 15 kHz. |
+| **Monitor output** | ±1 dB from 100 Hz to 5 kHz. |
+| **Total harmonic distortion** |  |
+| &nbsp;&nbsp;Headset output | Less than 1%, from 50 Hz to 10 kHz. |
+| **Speaker output** | Less than 1%, 50 Hz to 10 kHz |
+| **Noise** | 40 dB below 0 VU reference. GENERAL M405M EXTENDED RANGE VU MONITORING SYSTEM The M405M has been designed to measure and monitor the average level of an audio signal. This instrument is self-contained and mounts in an EIA standard 19&quot; equipment rack. It is powered by a 24 volt DC wall mount power supply. A &quot;range&quot; attenuator, providing 5 steps (-10, 0, +4, +8, +10 dBu), accommodates audio input levels from -10 to +10 dBu fora 0 meter reading. The M405M accepts two inputs (A orB) at the rear of the instrument. Selection between theA orB inputs maybe made by a pushbutton selector on the front of the unit. An internal speaker, complete with level control, is mounted in the front panel to permit the user to listen to the source being metered. A headset jack is also provided on the front panel for headphone monitoring. A1 VU Meter Amplifier WBS SA14-292B A2 Intercom pre and Output Amplifier WBS M703C F1 314 Amp fast blow fuse Buss AGC0.75 J1 Jack 1/4&quot; headphone Switchcraft NL-11413 LS1 Speaker Misco DC22S M1 Vu Meter Bach-Simpson 544WL R1 Speaker Level Clarostat WBS 10-073 SW1-SW7 Switch Schadow 2CF-GHT-AA WBS recommends the use of replacement parts made by the specified manufacturers for continued optimum equipment performance. M405M EXTENDED RANGE VU MONITORING SYSTEM March 20, 1995 MW94002/M405M.WP |
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._
