@@ -63,5 +63,13 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 
 - [index.html](SOFTWARE/index.html)
 
+## 3-D model
+
+[`MECHANICAL/M405M.stl`](MECHANICAL/M405M.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M405M)
+
+- **Size:** 482.09 × 88.14 mm panel, 165 mm deep, 3.2 mm plate (the AutoCAD drawing (hundredths of an inch: a 19" rack panel))
+- **From the drawing:** 6 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M405M - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M405M.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
