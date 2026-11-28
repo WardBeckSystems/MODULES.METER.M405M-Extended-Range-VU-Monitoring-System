@@ -1,5 +1,5 @@
 # 1995 - M405M - Archived - M405M - METER - MONITOR 003.jpg
-Wiki page: [M405M](../../../../PAGES/M405M.md)
+Wiki page: [M405M](../)
 
 
 - **Year:** 1995 (module estimate (manual_issue))

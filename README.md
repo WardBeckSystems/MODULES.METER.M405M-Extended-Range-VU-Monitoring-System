@@ -1,6 +1,6 @@
 # M405M Extended Range VU Monitoring System · Meter
 
-Ward-Beck Systems M405M, 1995|28. Wiki page: [M405M on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M405M.html)
+Ward-Beck Systems M405M, 1995|28. Wiki page: [M405M on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.METER.M405M-Extended-Range-VU-Monitoring-System/)
 
 | Folder | What is in it | Files |
 |---|---|---|
