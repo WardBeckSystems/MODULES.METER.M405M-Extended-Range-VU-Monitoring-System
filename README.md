@@ -4,13 +4,10 @@ Ward-Beck Systems M405M, 1995|28. Wiki page: [M405M on WBSps.ca](https://wardbec
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 1 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 4 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 4 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 2 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 2 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 3 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 3 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 1 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 4 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -57,7 +54,14 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
 
 - [M405M.kicad_sym](KICAD/M405M.kicad_sym)
-- [index.html](KICAD/index.html)
+
+## 3-D model
+
+[`MECHANICAL/M405M.stl`](MECHANICAL/M405M.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M405M)
+
+- **Size:** 482.09 × 88.14 mm panel, 165 mm deep, 3.2 mm plate (the AutoCAD drawing (hundredths of an inch: a 19" rack panel))
+- **From the drawing:** 6 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M405M - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M405M.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
